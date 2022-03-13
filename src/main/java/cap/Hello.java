@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("master分支末尾添加");
         System.out.println("hot_fix分支末尾添加代码");
         System.out.println("master分支末尾添加2");
+        System.out.println("push推送测试");
     }
 }
