@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("这是hot_fix分支增加的一行代码");
         System.out.println("master分支末尾添加");
         System.out.println("hot_fix分支末尾添加代码");
+        System.out.println("master分支末尾添加2");
     }
 }
