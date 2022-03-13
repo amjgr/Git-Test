@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("hot_fix分支末尾添加代码");
         System.out.println("master分支末尾添加2");
         System.out.println("push推送测试");
+        System.out.println("这是直接在远程库中增加的代码");
     }
 }
